@@ -1,0 +1,39 @@
+h1,h3 {
+    color: rgb(116, 131, 116);
+    text-align: center;
+    text-align: justify;
+
+}
+#webdevelopment{
+    color: red;
+    font-size: 40px;
+}
+.news{
+    background-color:seagreen;
+}
+h1.news{
+    font-size: 60px;
+}
+p.news{
+    margin: 20px;
+    border-radius: 10%;
+
+}
+.owner{
+    color: sienna;
+}
+.blog{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    border:5px solid aqua;
+    margin: 15px 5px 5px 15px;
+    padding: 15px 5px 5px 15px;
+    width: 30%;
+    float: left;
+    display: inline;
+    border-radius: 10px;
+
+}
+.lona{
+    color:red;
+}
